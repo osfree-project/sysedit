@@ -3,7 +3,7 @@
 # (c) osFree project
 #
 
-DESCRIPTION = osFree Janus System Editor
+DESCRIPTION = Janus System Editor
 TARGET_VERSION=310
 DEST = os2$(SEP)mdos$(SEP)winos2$(SEP)system
 
