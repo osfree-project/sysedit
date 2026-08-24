@@ -4,6 +4,9 @@
 //
 // ---------------------------------------------------------
 // Copyright (C) 1995 Qualitas, Inc.  GNU General Public License version 3
+// *
+// *      SPDX-License-Identifier: GPL-3.0-or-later
+// *
 // ---------------------------------------------------------
 
 #include <ver.h>					// Version resource definitions from DDK

@@ -1,4 +1,7 @@
 // Resource file for MAXEDIT
+// *
+// *      SPDX-License-Identifier: GPL-3.0-or-later
+// *
 #include <windows.h>
 
 #include "resource.h"
