@@ -5,6 +5,7 @@
 
 DESCRIPTION = Janus System Editor
 TARGET_VERSION=310
+TARGET_PACKAGE = DISK02
 DEST = os2$(SEP)mdos$(SEP)winos2$(SEP)system
 
 # defines additional options for C compiler
